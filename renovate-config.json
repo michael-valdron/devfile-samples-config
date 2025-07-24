@@ -28,6 +28,9 @@
       "commitMessageTopic": "{{depName}}"
     }
   ],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  },
   "prHourlyLimit": 20,
   "prConcurrentLimit": 1
 }
